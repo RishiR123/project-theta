@@ -37,40 +37,40 @@ We don't just show you how to use tools; we show you how they work. From the sim
     <td align="center" width="33%">
       <a href="./syllabi/beginner-path.md">
         <h3>🟢 Start Learning</h3>
+        <p>Zero experience? Start here. A step-by-step path to AI literacy.</p>
       </a>
-      <p>Zero experience? Start here. A step-by-step path to AI literacy.</p>
     </td>
     <td align="center" width="33%">
       <a href="./resources/tools.md">
         <h3>🛠️ Tool Library</h3>
+        <p>Curated list of Text, Image, Audio, and Video AI tools for every use case.</p>
       </a>
-      <p>Curated list of Text, Image, Audio, and Video AI tools for every use case.</p>
     </td>
     <td align="center" width="33%">
       <a href="./resources/foundation.md">
         <h3>🧬 Deep AI</h3>
+        <p>Go beyond the surface. Research papers, math, and architecture.</p>
       </a>
-      <p>Go beyond the surface. Research papers, math, and architecture.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="./prompts/master-guide.md">
         <h3>✍️ Master Prompts</h3>
+        <p>The art of communication. Learn how to get exactly what you want from AI.</p>
       </a>
-      <p>The art of communication. Learn how to get exactly what you want from AI.</p>
     </td>
     <td align="center" width="33%">
       <a href="./docs/glossary.md">
         <h3>📖 Glossary</h3>
+        <p>No jargon. Just plain English explanations for complex AI terms.</p>
       </a>
-      <p>No jargon. Just plain English explanations for complex AI terms.</p>
     </td>
     <td align="center" width="33%">
       <a href="./videos/how-to-submit.md">
         <h3>🎬 YouTube</h3>
+        <p>Contribute to our visual classroom and learn from the community.</p>
       </a>
-      <p>Contribute to our visual classroom and learn from the community.</p>
     </td>
   </tr>
 </table>
