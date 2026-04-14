@@ -1,0 +1,30 @@
+name: Resource Suggestion
+description: Suggest a new AI tool, reading material, or prompt.
+title: "[SUGGESTION] <resource-name>"
+labels: ["resource", "community-add"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a resource for Project Theta!
+  - type: input
+    id: resource_name
+    attributes:
+      label: Resource Name
+      placeholder: e.g. "Auto-GPT", "The AI Primer"
+    validations:
+      required: true
+  - type: input
+    id: resource_url
+    attributes:
+      label: Resource URL
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Tell us why this resource is valuable and accessible.
+    validations:
+      required: true
