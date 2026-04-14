@@ -1,6 +1,6 @@
 <div align="center">
 
-![Project Theta Banner](./branding/banner.png)
+![Project Theta Banner](./branding/banner1.png)
 
 <br/>
 
