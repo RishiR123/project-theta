@@ -1,24 +1,21 @@
 <div align="center">
 
+![Project Theta Banner](./branding/banner.png)
+
 <br/>
 
 # 🔵 PROJECT THETA
 
-### *It's Just AI.*
+### *Democratizing AI. One Lesson at a Time.*
 
-**A decentralized, community-driven initiative to democratize AI knowledge — free, forever.**
-
-<br/>
-
-[![Contributors](https://img.shields.io/github/contributors/RishiR123/project-theta?style=for-the-badge&color=6366f1)](https://github.com/RishiR123/project-theta/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/RishiR123/project-theta?style=for-the-badge&color=6366f1)](https://github.com/RishiR123/project-theta/stargazers)
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-6366f1?style=for-the-badge)](LICENSE)
-[![YouTube](https://img.shields.io/badge/YouTube-Unmonetized-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@projecttheta)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+**The open-source syllabus for the AI revolution. Radical access. Zero gatekeeping.**
 
 <br/>
 
-> *"Society is splitting into those who use AI and those who fear it. We exist to close that gap."*
+[![Learn](https://img.shields.io/badge/Course-Beginner_Path-6366f1?style=for-the-badge)](./syllabi/beginner-path.md)
+[![Resources](https://img.shields.io/badge/Resource-Master_List-6366f1?style=for-the-badge)](./resources/tools.md)
+[![Deep AI](https://img.shields.io/badge/Foundations-Deep_AI-orange?style=for-the-badge)](./resources/foundation.md)
+[![Community](https://img.shields.io/badge/Community-Discussions-green?style=for-the-badge)](https://github.com/RishiR123/project-theta/discussions)
 
 <br/>
 
@@ -26,119 +23,87 @@
 
 ---
 
-## 🧭 What Is Project Theta?
+## 🧭 The Vision
+Society is splitting. On one side are the AI-literate, scaling their potential. On the other are those left behind by fear or gatekeeping. **Project Theta exists to bridge that gap.**
 
-**Project Theta** is an open-source educational hub that lives entirely on free platforms — GitHub and YouTube. No paywalls. No course fees. No ads. Just real, practical AI knowledge, built by the community, for the community.
-
-We believe the gatekeeping of AI knowledge is a socio-economic problem. Our answer is radical openness.
-
----
-
-## 💡 The Philosophy: *It's Just AI.*
-
-AI is not magic. It's not science fiction. It's not something only PhDs can understand.
-
-It is a **powerful, accessible tool** — and anyone can learn to use it.
-
-Project Theta strips away the fear, the hype, and the unnecessary complexity to give you AI knowledge in its most human, approachable form.
+We don't just show you how to use tools; we show you how they work. From the simplest prompt to the deepest transformer architecture.
 
 ---
 
-## 🏗️ What's In This Repository?
+## 🚀 Explore the Hub
 
-| Folder | What's Inside |
-|--------|---------------|
-| [`/resources`](./resources/) | Curated AI tools, papers, and reading lists |
-| [`/prompts`](./prompts/) | Ready-to-use prompt library for various use cases |
-| [`/history`](./history/) | The story of AI — how we got here |
-| [`/videos`](./videos/) | Community video library & submission guide |
-| [`/syllabi`](./syllabi/) | Structured learning paths (Beginner → Advanced) |
-
----
-
-## 🎬 The YouTube Channel
-
-Our [YouTube channel](https://youtube.com/@projecttheta) is the visual classroom of Project Theta. All videos are:
-
-- ✅ **Free** to watch
-- ✅ **Unmonetized** — no ads, ever
-- ✅ **Community-sourced** — made by people like you
-- ✅ **Credited** — original creators are always acknowledged
-
-> **Want to contribute a video?** See the [Video Submission Guide](./videos/how-to-submit.md).
-
----
-
-## 🤝 How to Contribute
-
-Project Theta runs on community energy. Here's how you can plug in:
-
-### 📝 Text & Code Contributions (GitHub)
-1. **Fork** this repository
-2. **Add or improve** content (resources, prompts, history, syllabi)
-3. Open a **Pull Request** — that's it!
-
-→ Read the full [Contributing Guide](CONTRIBUTING.md)
-
-### 🎥 Video Contributions (Google Form)
-Since YouTube doesn't have native open-source contribution, we use a curated pipeline:
-
-1. **Create** an educational AI video
-2. **Submit** via our [Google Form](https://forms.google.com) *(link coming soon)*
-3. We **review** for quality and alignment with our philosophy
-4. **Published** on the channel with full credit to you
-
-→ Read the full [Video Submission Guide](./videos/how-to-submit.md)
-
----
-
-## 🗺️ Learning Paths
-
-Not sure where to start? We've got you:
-
-| Path | Who It's For |
-|------|-------------|
-| [🟢 Beginner](./syllabi/beginner-path.md) | Never used AI tools before |
-| [🟡 Intermediate](./syllabi/intermediate-path.md) | Using AI casually, want to go deeper |
-| [🔴 Advanced](./syllabi/advanced-path.md) | Developers & practitioners |
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="./syllabi/beginner-path.md">
+        <h3>🟢 Start Learning</h3>
+      </a>
+      <p>Zero experience? Start here. A step-by-step path to AI literacy.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="./resources/tools.md">
+        <h3>🛠️ Tool Library</h3>
+      </a>
+      <p>Curated list of Text, Image, Audio, and Video AI tools for every use case.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="./resources/foundation.md">
+        <h3>🧬 Deep AI</h3>
+      </a>
+      <p>Go beyond the surface. Research papers, math, and architecture.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./prompts/master-guide.md">
+        <h3>✍️ Master Prompts</h3>
+      </a>
+      <p>The art of communication. Learn how to get exactly what you want from AI.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="./docs/glossary.md">
+        <h3>📖 Glossary</h3>
+      </a>
+      <p>No jargon. Just plain English explanations for complex AI terms.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="./videos/how-to-submit.md">
+        <h3>🎬 YouTube</h3>
+      </a>
+      <p>Contribute to our visual classroom and learn from the community.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Non-Profit Commitment
+## 💡 The Philosophy: "It's Just AI."
+We believe AI should be demystified. It's not magic; it's math and data. By normalizing it, we make it accessible.
 
-Project Theta is and will always remain:
-
-- **Free** — No courses, no fees, no subscriptions
-- **Open** — All content is CC BY 4.0 licensed
-- **Unmonetized** — The YouTube channel will never run ads
-- **Community-first** — Contributors are the backbone, not an afterthought
+> [!IMPORTANT]
+> **This initiative is strictly Non-Profit.**
+> The associated YouTube channel is unmonetized. No ads, no paywalls, no "AI Guru" course. Just education.
 
 ---
 
-## 🌟 Contributors
+## 🤝 Community & Contributions
+Project Theta is decentralized. We rely on your knowledge to stay current.
 
-A huge thank you to everyone building this with us.
-
-<a href="https://github.com/RishiR123/project-theta/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RishiR123/project-theta" />
-</a>
-
----
-
-## 📬 Connect & Follow
-
-| Platform | Link |
-|----------|------|
-| 🎬 YouTube | [Project Theta Channel](https://youtube.com/@projecttheta) *(coming soon)* |
-| 🐙 GitHub Discussions | [Start a discussion](https://github.com/RishiR123/project-theta/discussions) |
-| 📋 Issues | [Request a resource or report an issue](https://github.com/RishiR123/project-theta/issues) |
+- **Found a new tool?** [Open a Suggestion](https://github.com/RishiR123/project-theta/issues/new?template=resource_suggestion.yml)
+- **Want to teach?** [Submit a Video](./videos/how-to-submit.md)
+- **Have a question?** [Join the Discussion](https://github.com/RishiR123/project-theta/discussions)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the community. For the community.**
+### 🌟 Our Backbone: The Contributors
+<a href="https://github.com/RishiR123/project-theta/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=RishiR123/project-theta" />
+</a>
 
-*Project Theta — It's Just AI.*
+<br/>
+
+**Project Theta — It's Just AI.**
 
 </div>

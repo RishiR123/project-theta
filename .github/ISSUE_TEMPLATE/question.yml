@@ -1,0 +1,19 @@
+name: Question or Discussion
+description: Ask a question about AI or the Project Theta initiative.
+title: "[QUESTION] <your-question-here>"
+labels: ["question", "discussion"]
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      placeholder: What are you trying to understand?
+    validations:
+      required: true
+  - type: textarea
+    id: effort
+    attributes:
+      label: What have you tried?
+      placeholder: Did you check the glossary or resources first?
+    validations:
+      required: false
